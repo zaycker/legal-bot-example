@@ -1,0 +1,8 @@
+torch==2.7.1+cpu
+chromadb
+fastapi
+pandas
+python-dotenv
+requests
+sentence-transformers
+uvicorn
